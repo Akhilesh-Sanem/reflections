@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+When a repository is initialised, git starts tracking the changes made on the repo and notifies if there are any unsaved changes in it
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+staging area is area where tracked files are ready for commit.
